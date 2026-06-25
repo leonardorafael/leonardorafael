@@ -8,11 +8,11 @@ If you've ever felt frustrated by massive JS frameworks, bloated CSS files, or t
 
 By supporting me, you are directly fueling the development and maintenance of these key open-source ecosystems:
 
-🍺 Beer CSS: A lightweight, vanilla CSS framework designed to bring Material Design 3 to life using completely semantic HTML. No heavy JS dependencies - just raw speed and beautiful UI out of the box.
+🍺 **Beer CSS:** A lightweight, vanilla CSS framework designed to bring Material Design 3 to life using completely semantic HTML. No heavy JS dependencies - just raw speed and beautiful UI out of the box.
 
-🎨 Material Dynamic Colors: A powerful tool to easily generate and apply dynamic, accessible Material You color palettes directly from wallpapers or user selections in real time.
+🎨 **Material Dynamic Colors:** A powerful tool to easily generate and apply dynamic, accessible Material You color palettes directly from wallpapers or user selections in real time.
 
-🔤 Material Dynamic Fonts: Seamless, dynamic font scaling and loading that plays perfectly with modern design systems. The main goal is to reduce the icon font file size to ~1kb.
+🔤 **Material Dynamic Fonts:** Seamless, dynamic font scaling and loading that plays perfectly with modern design systems. The main goal is to reduce the icon font file size to ~1kb.
 
 ### Why Support My Work? ❤️
 
