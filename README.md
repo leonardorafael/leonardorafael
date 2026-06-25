@@ -1,3 +1,5 @@
+[<img src="https://img.shields.io/badge/☕︎-Buy_Me_a_Coffee-ffd700">](https://buymeacoffee.com/leonaradorafael)
+
 ## Hi there! I’m Leo. 👋
 
 I am an independent open-source developer and maintainer passionate about building a faster, cleaner, and more standard-compliant web.
