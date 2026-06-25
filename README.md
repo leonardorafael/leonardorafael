@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/☕︎-Buy_Me_a_Coffee-ffd700">](https://buymeacoffee.com/leonaradorafael)
+[<img src="https://img.shields.io/badge/☕︎-Buy_Me_a_Coffee-ffd700">](https://buymeacoffee.com/leonardorafael)
 
 ## Hi there! I’m Leo. 👋
 
